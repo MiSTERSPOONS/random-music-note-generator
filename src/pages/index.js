@@ -1,6 +1,5 @@
 import Head from 'next/head'
 import Note from '../components/Note'
-import styles from '@/styles/Home.module.css'
 
 export default function Home() {
   return (
