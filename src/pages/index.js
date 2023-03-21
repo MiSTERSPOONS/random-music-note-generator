@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import Note from '../components/Note'
+import Note from '../components/Note.tsx'
 
 export default function Home() {
   return (
